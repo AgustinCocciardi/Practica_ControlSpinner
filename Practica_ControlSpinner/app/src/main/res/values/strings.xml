@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica_ControlSpinner</string>
+    <string name="EditText1">Ingrese Primer Valor</string>
+    <string name="EditText2">Ingrese Segundo Valor</string>
+    <string name="Boton">Calcular</string>
+    <string name="TextView">Resultado</string>
+</resources>
